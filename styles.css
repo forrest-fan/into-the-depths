@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "pixeled";
+    src: url(libraries/assets/Pixeled.ttf);
+}
+
+body {
+    background: black;
+    margin:auto;
+}
+
+h1{
+    text-align: center;
+    padding-top: 5px;
+    font: bold 25px pixeled;
+    color: rgb(201, 137, 0);
+    width: 100%;
+    margin-bottom: -0.7em;
+}
+
+p {
+    text-align: center;
+    font: 10px pixeled;
+    color: rgb(201, 137, 0);
+    margin-bottom: 0em;
+}
